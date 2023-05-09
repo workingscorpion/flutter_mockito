@@ -2,7 +2,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_testtest/counter.dart';
 
 main() {
-  group('group name', () {
+  group('counter test', () {
     test('value should start at 0', () {
       expect(Counter().value, 0);
     });
